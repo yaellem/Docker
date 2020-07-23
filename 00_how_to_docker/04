@@ -1,0 +1,1 @@
+docker pull hello-world \# too list images : docker images
